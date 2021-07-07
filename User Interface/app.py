@@ -59,7 +59,7 @@ def result():
         translator = Translator()
         path = os.path.dirname(os.path.abspath(__file__))
         input_sentences = []
-        apikey = "7f8ce90b8d898a20bebcb12c3d8b52be"
+        apikey = ""  # insert api key here
         jotformAPI = JotformAPIClient(apikey)
 
         # getting input
