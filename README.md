@@ -1,7 +1,7 @@
 There are 4 folders
 
 Neural Machine Translation Folder:
-Includes nmt_with_attention.ipnyb. This file contains Machine Learning part of the project.
+Includes nmt.ipnyb. This file contains Machine Learning part of the project.
 It contains code for input preprocessing, composing of neural network model, training the
 model, translate inputs and saving model.
 The model was created based on the neural machine translation guide prepared by Tensorflow. 
